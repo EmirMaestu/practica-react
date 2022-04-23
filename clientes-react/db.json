@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Emir Actualizado",
+      "empresa": "Emir",
+      "email": "emir@emir.com",
+      "telefono": "123",
+      "notas": "hola",
+      "id": 2
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Juan el bautista",
+      "email": "juan@juan.com",
+      "telefono": "2123",
+      "notas": "hola",
+      "id": 5
+    },
+    {
+      "nombre": "qwe",
+      "empresa": "hoal",
+      "email": "maestu49@gmail.com",
+      "telefono": "02612494123",
+      "notas": "qwe",
+      "id": 6
+    },
+    {
+      "nombre": "Ariel",
+      "empresa": "Mecánica Ariel",
+      "email": "maestu49@gmail.com",
+      "telefono": "02612494123",
+      "notas": "Hacer distribución",
+      "id": 7
+    },
+    {
+      "nombre": "Pablito ACtualizado",
+      "empresa": "emirtech",
+      "email": "maestu49@gmail.com",
+      "telefono": "02612494123",
+      "notas": "hoal",
+      "id": 8
+    }
+  ]
+}

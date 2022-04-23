@@ -4,6 +4,8 @@ import Layout from './layout/Layout'
 import EditarCliente from './pages/EditarCliente'
 import Inicio from './pages/Inicio'
 import NuevoCliente from './pages/NuevoCliente'
+import VerCliente from './pages/VerCliente'
+
 
 function App() {
     const [count, setCount] = useState(0)
@@ -15,6 +17,7 @@ function App() {
                     <Route index element={<Inicio />} />
                     <Route path='nuevo' element={<NuevoCliente />} />
                     <Route path='editar/:id' element={<EditarCliente />} />
+                    <Route path=':id' element={<VerCliente />} />
                 </Route>
             </Routes>
         </BrowserRouter>
